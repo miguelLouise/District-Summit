@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "district-summit",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "district-summit"
+	}
+}
